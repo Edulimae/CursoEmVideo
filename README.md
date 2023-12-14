@@ -1,2 +1,2 @@
-# CurspEmVideo
+# CursoEmVideo
  
